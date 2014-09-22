@@ -28,6 +28,6 @@ Pinch zoom and swipe left/right to change fullscreen images don't work together.
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](anim_grid_image_search.gif)
+![Video Walkthrough](anim_grid_imagesearch.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
