@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".SearchActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:showAsAction="ifRoom"
+        android:title="@string/search_label" />
+
+    <item
+        android:id="@+id/miFilter"
+        android:onClick="openFilterDialog"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_filter"
+        android:title="@string/filter_label" />
+</menu>

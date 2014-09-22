@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GridImageSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_prompt">Enter search query</string>
+    <string name="search_label">Search</string>
+    <string name="filter_label">Filter</string>
+    <string name="image_title_label">Image Title</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="title_activity_filter_search_results">FilterSearchResultsActivity</string>
+    <string name="image_size_spinner_label">Image Size</string>
+    <string name="color_filter_spinner_label">Color Filter</string>
+    <string name="image_type_spinner_label">Image Type</string>
+    <string name="site_filter_spinner_label">Site Filter</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="filters_title">Advanced Filters</string>
+    <string name="sites_filter_hint">Ex: espn.com</string>
+
+</resources>
